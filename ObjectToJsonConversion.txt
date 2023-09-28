@@ -1,0 +1,2 @@
+ObjectMapper objectMapper = new ObjectMapper();
+String json = objectMapper.writeValueAsString(source);
